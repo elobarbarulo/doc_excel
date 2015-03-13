@@ -1,0 +1,14 @@
+titulo;EMPRESAS;;;;;;;;;;
+descricao;Esse modulo vai conter todas as empresas do sistema para poder ter estacionamento tem q ter uma empresa cadastrada e a empresa tambem var ter os funcionarios como contatos comerciais.;;;;;;;;;;
+anexos;img;;;;;;;;;;
+anexos;pdf;;;;;;;;;;
+anexos;txt;;;;;;;;;;
+dic;nome_tabela;nome da tabela vem aqui ;;;;;;;;;
+dic;comentario;Aqui vem o comenario aaaaaaaaaaaaaaaaaaaaaaaaaaaa;;;;;;;;;
+dic;tit_colunas;Chv;Campos;Tipos;Tamanho;Ob;Extra;Comen;VS;;
+dic;val_colunas;PK;id;INT;11;S;;;V1;;
+dic;val_colunas;PK;id;INT;11;S;;;V1;;
+dic;val_colunas;PK;id;INT;11;S;;;V1;;
+dic;tit_models;nome;retorno;parametros;objetivo;;;;;;
+dic;val_models;nome;retorno;parametros;objetivo;;;;;;
+dic;fim;;;;;;;;;;

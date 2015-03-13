@@ -1,0 +1,25 @@
+anexos;img;1.jpg;;;;;;;
+anexos;pdf;1.pdf;;;;;;;
+anexos;txt;1.txt;;;;;;;
+anexos;img;1.jpg;;;;;;;
+anexos;pdf;1.pdf;;;;;;;
+anexos;txt;1.txt;;;;;;;
+titulo;usuarios;;;;;;;;
+descricao;descricao;;;;;;;;
+dic;nome_tabela;nome da tabela vem aqui ;;;;;;;
+dic;comentario;Aqui vem o comenario aaaaaaaaaaaaaaaaaaaaaaaaaaaa;;;;;;;
+dic;tit_colunas;Chv;Campos;Tipos;Tamanho;Ob;Extra;Comen;VS
+dic;val_colunas;PK;id;INT;11;S;;;V1
+dic;val_colunas;PK;id;INT;11;S;;;V1
+dic;val_colunas;PK;id;INT;11;S;;;V1
+dic;tit_models;nome;retorno;parametros;objetivo;;;;
+dic;val_models;nome;retorno;parametros;objetivo;;;;
+dic;fim;;;;;;;;
+dic;nome_tabela;nome da tabela vem aqui ;;;;;;;
+dic;comentario;Aqui vem o comenario aaaaaaaaaaaaaaaaaaaaaaaaaaaa;;;;;;;
+dic;tit_colunas;Chv;Campos;Tipos;Tamanho;Ob;Extra;Comen;VS
+dic;val_colunas;PK;id;INT;11;S;;;V1
+dic;val_colunas;PK;id;INT;11;S;;;V1
+dic;val_colunas;PK;id;INT;11;S;;aqui vou colocar todo que acho que tenho que colocar pq é assim que fazemos espero que inicio funcione ;V2
+dic;tit_models;nome;retorno;parametros;objetivo;;;;
+dic;val_models;nome;retorno;parametros;objetivo;;;;
